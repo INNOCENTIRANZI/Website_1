@@ -1,0 +1,1 @@
+This website marks my first practical project in my web development journey. It serves as a prototype for an e-commerce platform and lays the foundation for further enhancements to make it suitable for real-world applications
